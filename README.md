@@ -2,7 +2,7 @@
     <img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" alt="MasterHead" style="width: 100%; max-width: 800px;">
 </div>
 
-<h1 align="center">Hi 👋, I'm Rukaiya Tanha</h1>
+<h1 align="center">Hi 👋, I'm Rokiya Tanha</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDMyMzhsMjI2dnU5cTM2bDI0YzZ5ZjQ1M2picGdxMWx4a2xiNHpvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif">
 
